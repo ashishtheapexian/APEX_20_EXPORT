@@ -16,7 +16,7 @@ wwv_flow_api.create_page(
 ,p_user_interface_id=>wwv_flow_api.id(702629878413316167)
 ,p_name=>'Login Page'
 ,p_alias=>'LOGIN'
-,p_step_title=>'APEX 20.1 - Sign In'
+,p_step_title=>'APEX 20.1 Demo - Sign In'
 ,p_warn_on_unsaved_changes=>'N'
 ,p_first_item=>'AUTO_FIRST_ITEM'
 ,p_autocomplete_on_off=>'OFF'
@@ -24,7 +24,7 @@ wwv_flow_api.create_page(
 ,p_page_template_options=>'#DEFAULT#:t-LoginPage--split'
 ,p_page_is_public_y_n=>'Y'
 ,p_last_updated_by=>'ASHISH'
-,p_last_upd_yyyymmddhh24miss=>'20200325203322'
+,p_last_upd_yyyymmddhh24miss=>'20200325205617'
 );
 wwv_flow_api.create_page_plug(
  p_id=>wwv_flow_api.id(702633904110316185)
